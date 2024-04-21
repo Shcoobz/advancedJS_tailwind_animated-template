@@ -4,7 +4,7 @@
 
 ## Summary
 
-react_tailwind_Animated Template provides a fully animated, responsive web application template built with React and Tailwind CSS. It features a user-friendly interface with rich animations that enhance the visual experience and engage users effectively.
+Animated Template provides a fully animated, responsive web application template built with React and Tailwind CSS. It features a user-friendly interface with rich animations that enhance the visual experience and engage users effectively.
 
 The core functionality includes:
 
