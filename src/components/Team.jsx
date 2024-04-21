@@ -1,3 +1,18 @@
+/**
+ * Constant array containing details of the team members.
+ * Each object within the array represents a team member with their respective profile details and social media links.
+ * @const {Object[]} teamMembers - Array of objects, each containing a team member's information.
+ * @property {number} id - Unique identifier for each team member.
+ * @property {string} name - Full name of the team member.
+ * @property {string} role - Job title or role of the team member within the company.
+ * @property {string} image - URL to a profile image representing the team member.
+ * @property {Object} socialLinks - Social media links associated with the team member.
+ * @property {string} [socialLinks.twitter] - Optional Twitter URL.
+ * @property {string} [socialLinks.facebook] - Optional Facebook URL.
+ * @property {string} [socialLinks.google] - Optional Google URL.
+ * @property {string} [socialLinks.instagram] - Optional Instagram URL.
+ * @property {string} [socialLinks.dribbble] - Optional Dribbble URL.
+ */
 const teamMembers = [
   {
     id: 1,
@@ -45,6 +60,11 @@ const teamMembers = [
   },
 ];
 
+/**
+ * Team component that introduces the team members.
+ * This section is used to highlight the human element of the company by showcasing its team members.
+ * @returns {React.Component} - A section that displays cards for each team member with their roles and social links.
+ */
 function Team() {
   return (
     <section className='pt-20 pb-48'>

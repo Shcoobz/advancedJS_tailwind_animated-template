@@ -1,3 +1,8 @@
+/**
+ * Showcase component that highlights key achievements or products.
+ * Designed to catch user attention with a centrally placed, impactful statement.
+ * @returns {React.Component} - A dark-themed section that puts a spotlight on high-value content.
+ */
 function Showcase() {
   return (
     <section className='pb-20 relative block bg-gray-900'>

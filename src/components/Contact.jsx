@@ -1,3 +1,7 @@
+/**
+ * Contact component that displays a contact form.
+ * @returns {React.Component} - A section with a contact form to engage with users.
+ */
 function Contact() {
   return (
     <section className='relative block py-24 lg:pt-0 bg-gray-900'>

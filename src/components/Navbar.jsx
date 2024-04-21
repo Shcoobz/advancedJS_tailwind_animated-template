@@ -1,8 +1,18 @@
+/**
+ * Hook for managing state within React.
+ */
 import { useState } from 'react';
 
+/**
+ * Navbar component for navigation within the application.
+ * @returns {React.Component} - Responsive top navigation bar.
+ */
 function Navbar() {
   const [isOpen, setIsOpen] = useState(false);
 
+  /**
+   * Toggles the visibility of the mobile navbar menu.
+   */
   const toggleNavbar = () => {
     setIsOpen(!isOpen);
   };

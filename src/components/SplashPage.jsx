@@ -1,3 +1,8 @@
+/**
+ * SplashPage component serving as the landing page of the application.
+ * Features a striking background image and a welcoming message.
+ * @returns {React.Component} - A full-screen view that acts as the face of the website, greeting users upon arrival.
+ */
 function SplashPage() {
   return (
     <div

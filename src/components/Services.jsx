@@ -1,3 +1,8 @@
+/**
+ * Services component that displays a list of services offered by the company.
+ * This component utilizes animation to bring attention to each service card.
+ * @returns {React.Component} - A section with multiple service cards, each detailing a specific service.
+ */
 function Services() {
   return (
     <section className='pb-20 bg-gray-300 -mt-24'>

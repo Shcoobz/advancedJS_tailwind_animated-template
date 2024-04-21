@@ -1,3 +1,7 @@
+/**
+ * Component showcasing the growth and ethos of the company.
+ * @returns {React.Component} - A section detailing company growth with images and text.
+ */
 function GrowingCompany() {
   return (
     <section className='relative py-20'>

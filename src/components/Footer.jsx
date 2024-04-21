@@ -1,3 +1,7 @@
+/**
+ * Footer component that contains contact information and links to social platforms.
+ * @returns {React.Component} - Footer of the application with additional links and information.
+ */
 function Footer() {
   return (
     <footer className='relative bg-gray-300 pt-8 pb-6'>

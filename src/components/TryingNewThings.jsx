@@ -1,3 +1,8 @@
+/**
+ * TryingNewThings component that encourages innovation and experimentation.
+ * It includes motivational text and visually appealing elements to inspire visitors.
+ * @returns {React.Component} - A visually engaging section that encourages visitors to explore new ideas and innovations.
+ */
 function TryingNewThings() {
   return (
     <section className='bg-gray-300 py-20'>
