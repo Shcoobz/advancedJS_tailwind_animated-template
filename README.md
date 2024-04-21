@@ -1,4 +1,4 @@
-# react_tailwind_Animated Template: [LIVE DEMO](https://github.com/Shcoobz/react_tailwind_animated-template)
+# react_tailwind_Animated Template: [LIVE DEMO](https://shcoobz.github.io/react_tailwind_animated-template/)
 
 ![react_tailwind_Animated-template](src/img/react_tailwind_animated-template.png)
 
