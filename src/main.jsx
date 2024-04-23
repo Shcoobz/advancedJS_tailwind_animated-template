@@ -12,7 +12,7 @@ import App from './App.jsx';
 /**
  * Stylesheet import for the application.
  */
-import './index.css';
+import './css/index.css';
 
 /**
  * Mounts the React application to the DOM.
