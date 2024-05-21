@@ -1,6 +1,6 @@
-# react_tailwind_Animated Template: [LIVE DEMO](https://shcoobz.github.io/react_tailwind_animated-template/)
+# advancedJS_Tailwind_Animated Template: [LIVE DEMO](https://shcoobz.github.io/advancedJS_tailwind_animated-template/)
 
-![react_tailwind_Animated-template](src/img/react_tailwind_animated-template.png)
+![advancedJS_tailwind_Animated-template](src/img/advancedJS_tailwind_animated-template.png)
 
 ## Summary
 

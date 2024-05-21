@@ -1,5 +1,5 @@
 {
-  "name": "react_animated-template",
+  "name": "advancedJS_animated-template",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -11,7 +11,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "https://shcoobz.github.io/react_tailwind_animated-template/",
+  "homepage": "https://shcoobz.github.io/advancedJS_tailwind_animated-template/",
   "dependencies": {
     "aos": "^3.0.0-beta.6",
     "react": "^18.2.0",
